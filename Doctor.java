@@ -4,6 +4,7 @@ package findsimilardoctor;
 /**
  *
  * @author xuejing
+ * xuejing@mail.sfsu.edu
  */
 public class Doctor {
 
